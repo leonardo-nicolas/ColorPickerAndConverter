@@ -17,3 +17,8 @@ Este projeto é completamente gratuito e sua fonte pode ser obtida para implemen
   Para outras linguagens (Já que começa com o 0x e termina com o hexadecimal em RGB, cujo as Linguagens com a sintaxe parecida ou linguagens da família C (C#, F#, Java, C++, Dart, Javascript, Typescript, etc), Pyton, Kotlin, etc, usam.)
   
 Aproveite!
+
+
+
+Nesse projeto só tem um bug em que estou ainda trabalhando para resolver: Disponibilizar em outros idiomas. Já coloquei o idioma inglês, porém eu ainda não consegui fazer funcioná-lo!
+Como ainda vou colocar em espanhol e francês, trabalharei para resolver isso junto!
