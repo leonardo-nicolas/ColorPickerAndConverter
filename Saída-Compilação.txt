@@ -1,0 +1,4 @@
+﻿Recompilação iniciada...
+1>------ Recompilação total iniciada: Projeto: WindowsApp1, Configuração: Debug Any CPU ------
+1>  WindowsApp1 -> E:\Projetos VS\Color Picker\WindowsApp1\bin\Debug\Colors.exe
+========== Recompilar Tudo: 1 com êxito, 0 com falha, 0 ignorados ==========
