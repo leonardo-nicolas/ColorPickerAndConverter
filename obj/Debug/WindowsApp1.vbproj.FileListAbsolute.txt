@@ -1,18 +1,18 @@
 E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
 E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
-E:\Projetos VS\Color Picker\WindowsApp1\bin\Debug\Colors.exe.config
-E:\Projetos VS\Color Picker\WindowsApp1\bin\Debug\Colors.exe
-E:\Projetos VS\Color Picker\WindowsApp1\bin\Debug\Colors.pdb
-E:\Projetos VS\Color Picker\WindowsApp1\bin\Debug\Colors.xml
-E:\Projetos VS\Color Picker\WindowsApp1\bin\Debug\pt-BR\Colors.resources.dll
 E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\Colors.Form1.resources
 E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\Colors.Resources.resources
 E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\Colors.Form1.pt-BR.resources
-E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\pt-BR\Colors.resources.dll
-E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\Colors.exe
-E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\Colors.xml
-E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\Colors.pdb
-E:\Projetos VS\Color Picker\WindowsApp1\bin\Debug\en-US\Colors.resources.dll
 E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\WindowsApp1.vbproj.AssemblyReference.cache
 E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\Colors.Form1.en-US.resources
-E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\en-US\Colors.resources.dll
+E:\Projetos VS\Color Picker\WindowsApp1\bin\Debug\Colors Picker.exe.config
+E:\Projetos VS\Color Picker\WindowsApp1\bin\Debug\Colors Picker.exe
+E:\Projetos VS\Color Picker\WindowsApp1\bin\Debug\Colors Picker.pdb
+E:\Projetos VS\Color Picker\WindowsApp1\bin\Debug\Colors Picker.xml
+E:\Projetos VS\Color Picker\WindowsApp1\bin\Debug\en-US\Colors Picker.resources.dll
+E:\Projetos VS\Color Picker\WindowsApp1\bin\Debug\pt-BR\Colors Picker.resources.dll
+E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\en-US\Colors Picker.resources.dll
+E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\pt-BR\Colors Picker.resources.dll
+E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\Colors Picker.exe
+E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\Colors Picker.xml
+E:\Projetos VS\Color Picker\WindowsApp1\obj\Debug\Colors Picker.pdb
