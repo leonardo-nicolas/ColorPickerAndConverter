@@ -22,3 +22,6 @@ Aproveite!
 
 Nesse projeto só tem um bug em que estou ainda trabalhando para resolver: Disponibilizar em outros idiomas. Já coloquei o idioma inglês, porém eu ainda não consegui fazer funcioná-lo!
 Como ainda vou colocar em espanhol e francês, trabalharei para resolver isso junto!
+
+
+Neste projeto foi usado o pacote do Microsoft .NET Framework 3.5 Client Profile. Não houve necessidade de colocar uma versão mais atual, para tentar deixá-lo disponível em algumas versões um pouco mais antigas do windows.
